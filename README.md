@@ -2,7 +2,7 @@
 
 I'm a **Computational Linguist** with a background in Hispanic Philology and Linguistics. I hold a Double Degree in Hispanic Philology and Linguistics and Applied Languages from the **University of Cádiz (UCA)**, and an **Interuniversity Master's Degree in Linguistics and Technologies**, specializing in Computational Linguistics, jointly offered by the **Complutense University of Madrid (UCM)** and the **Technical University of Madrid (UPM)**.
 
-**💼 I'm currently working as an Computational Linguistics Research Technician** at the Institute of Applied Linguistics (ILA), University of Cádiz.
+**💼 I'm currently working as an Computational Linguistics Research Technician** at the Institute of Applied Linguistics (ILA-UCA).
 
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white)](mailto:daniel.cavilla.molina@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielcavilla)
