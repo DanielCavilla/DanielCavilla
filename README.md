@@ -4,9 +4,9 @@ I'm a **Computational Linguist** with a background in Hispanic Philology and Lin
 
 **💼 I'm currently working as an Computational Linguistics Research Technician** at the Institute of Applied Linguistics (ILA-UCA).
 
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white)](mailto:daniel.cavilla.molina@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielcavilla)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0004--2016--2768-green?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-2016-2768)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white)](mailto:daniel.cavilla.molina@gmail.com)
 
 ---
 
