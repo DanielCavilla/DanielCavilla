@@ -10,7 +10,7 @@ I'm a **Computational Linguist** with a background in Hispanic Philology and Lin
 
 ---
 
-### 🔍 Research Interests
+### 🔍 Research interests
 
 My main interests lie at the intersection of **Computational Linguistics, Natural Language Processing and Artificial Intelligence**.
 
@@ -18,7 +18,7 @@ I enjoy combining my background in linguistics with programming and machine lear
 
 ---
 
-### 🧠 Previous Research
+### 🧠 Previous research
 
 My previous research experience includes **Speech and Language Technologies**, particularly the creation of regional Spanish speech datasets and the adaptation of Text-to-Speech (TTS) models through Parameter-Efficient Fine-Tuning (PEFT) techniques such as LoRA.
 
